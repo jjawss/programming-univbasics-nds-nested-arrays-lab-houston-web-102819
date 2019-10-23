@@ -20,7 +20,7 @@ def assembled_matrix
   # Build an array that contains (or, "nests") the residents of The Ennet House
   # and the Enfield Tennis Academy as provided by the constants
   nested_array = [
-    [ENNET_HOUSE]
+    ENNET_HOUSE,
     ENFIELD_TENNIS_ACADEMY
     ]
 end
