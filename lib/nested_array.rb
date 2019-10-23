@@ -21,7 +21,7 @@ def assembled_matrix
   # and the Enfield Tennis Academy as provided by the constants
   nested_array = [
     [ENNET_HOUSE]
-    [ENFIELD_TENNIS_ACADEMY]
+    ENFIELD_TENNIS_ACADEMY
     ]
 end
 
